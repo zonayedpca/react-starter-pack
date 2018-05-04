@@ -1,9 +1,12 @@
 import React from 'react';
 
+import favicon from '../favicon.png';
+
 const App = () => {
   return (
-    <div class="app">
+    <div className="app">
       <h1>Lorem Ispum</h1>
+      <img src={favicon} />
     </div>
   )
 }
