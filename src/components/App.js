@@ -1,12 +1,13 @@
 import React from 'react';
 
-import favicon from '../favicon.png';
+import reactIMG from '../react-img.png';
 
 const App = () => {
   return (
     <div className="app">
-      <h1>Lorem Ispum</h1>
-      <img src={favicon} />
+      <img src={reactIMG} />
+      <h1>React Basic Starter Pack</h1>
+      <p>Start Your Development from <code>src/index.js</code></p>
     </div>
   )
 }
