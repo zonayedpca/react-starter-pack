@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div className="app">
       <img src={reactIMG} />
-      <h1>React Basic Starter Pack</h1>
+      <h1>React Starter Pack</h1>
       <p>Start Your Development from <code>src/index.js</code></p>
     </div>
   )
