@@ -1,6 +1,6 @@
 ## Download
 - Basic Starter Pack [[Download](https://github.com/zonayedpca/react-starter-pack/archive/master.zip)] [[Github](https://github.com/zonayedpca/react-starter-pack)]
-- Starter Pack with File(Image) Support [[Download](https://github.com/zonayedpca/react-starter-pack/archive/react-starter-pack-file-support.zip)] [[Github](https://github.com/zonayedpca/react-starter-pack)]
+- Starter Pack with File(Image) Support [[Download](https://github.com/zonayedpca/react-starter-pack/archive/react-starter-pack-file-support.zip)] [[Github](https://github.com/zonayedpca/react-starter-pack/tree/react-starter-pack-file-support)]
 
 ### Install
 ```
