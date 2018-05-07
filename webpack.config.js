@@ -37,6 +37,7 @@ module.exports = {
     }),
     new FaviconsWebpackPlugin({
       logo: './public/favicon.png',
+      prefix: 'icons/',
       title: 'React Starter Pack Complete Version'
     })
   ]
