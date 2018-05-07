@@ -4,7 +4,7 @@
   "description": "A Simple React Starter Pack using Webpack and so on, from Scratch",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development --hot --open --port 4004",
+    "start": "webpack-dev-server --mode development --hot --open",
     "build": "webpack --mode production"
   },
   "repository": {

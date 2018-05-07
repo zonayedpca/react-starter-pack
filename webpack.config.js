@@ -40,5 +40,16 @@ module.exports = {
       prefix: 'icons/',
       title: 'React Starter Pack Complete Version'
     })
-  ]
+  ],
+  devServer: {
+    historyApiFallback: true,
+    port: process.env.PORT || 4004,
+    host: process.env.IP || 'localhost',
+    disableHostCheck: true,
+    contentBase: './',
+    watchOptions: {
+      aggregateTimeout: 300,
+      poll: 1000
+    }
+  }
 }
