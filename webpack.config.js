@@ -26,8 +26,8 @@ module.exports = {
       template: './public/index.html'
     }),
     new FaviconsWebpackPlugin({
-      logo: 'my-logo.png',
-      title: 'Webpack App'
+      logo: './public/favicon.png',
+      title: 'React Starter Pack Complete Version'
     })
   ]
 }
