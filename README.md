@@ -1,8 +1,10 @@
 ![React Starter Pack](https://cdn-images-1.medium.com/max/1000/1*N0sOMkpoeMiCqZw2pjzFzA.jpeg)
 
 ## Download
-- Basic Starter Pack [[Download](https://github.com/zonayedpca/react-starter-pack/archive/master.zip)] [[Github](https://github.com/zonayedpca/react-starter-pack)]
-- Starter Pack with File(Image) Support [[Download](https://github.com/zonayedpca/react-starter-pack/archive/react-starter-pack-file-support.zip)] [[Github](https://github.com/zonayedpca/react-starter-pack/tree/react-starter-pack-file-support)]
+- Complete Starter Pack [[Download](https://github.com/zonayedpca/react-starter-pack/archive/master.zip)] [[Github](https://github.com/zonayedpca/react-starter-pack)]
+- Basic Starter Pack [[Download](https://github.com/zonayedpca/react-starter-pack/archive/basic-pack.zip)] [[Github](https://github.com/zonayedpca/react-starter-pack/tree/basic-pack)]
+- Cloud9 Starter Pack [[Download](https://github.com/zonayedpca/react-starter-pack/archive/c9-pack.zip)] [[Github](https://github.com/zonayedpca/react-starter-pack/tree/c9-pack)]
+
 
 ### Install
 ```
