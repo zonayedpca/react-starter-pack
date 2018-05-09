@@ -2,7 +2,7 @@
 
 ## Download
 - Complete Starter Pack(Supports Images, CSS and all other things) [[Download](https://github.com/zonayedpca/react-starter-pack/archive/master.zip)] [[Github](https://github.com/zonayedpca/react-starter-pack)]
-- Basic Starter Pack(Only Supports Images and all other things) [[Download](https://github.com/zonayedpca/react-starter-pack/archive/basic-pack.zip)] [[Github](https://github.com/zonayedpca/react-starter-pack/tree/basic-pack)]
+- Basic Starter Pack(Only Supports CSS and all other things) [[Download](https://github.com/zonayedpca/react-starter-pack/archive/basic-pack.zip)] [[Github](https://github.com/zonayedpca/react-starter-pack/tree/basic-pack)]
 - Cloud9 Starter Pack(Supports Images, CSS and all other things, fully runnable on Cloud9) [[Download](https://github.com/zonayedpca/react-starter-pack/archive/c9-pack.zip)] [[Github](https://github.com/zonayedpca/react-starter-pack/tree/c9-pack)]
 
 
